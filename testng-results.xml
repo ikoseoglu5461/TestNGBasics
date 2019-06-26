@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+      <class name="com.class03.BasicXMLPartTwo">
+        <test-method status="PASS" signature="tesOneFromBasic1()[pri:0, instance:com.class03.BasicXMLPartTwo@9629756]" name="tesOneFromBasic1" duration-ms="1" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesOneFromBasic1 -->
+        <test-method status="PASS" signature="testSceondFromBasic1()[pri:0, instance:com.class03.BasicXMLPartTwo@9629756]" name="testSceondFromBasic1" duration-ms="1" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSceondFromBasic1 -->
+        <test-method status="PASS" signature="testThirdFromBasic1()[pri:0, instance:com.class03.BasicXMLPartTwo@9629756]" name="testThirdFromBasic1" duration-ms="2" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThirdFromBasic1 -->
+      </class> <!-- com.class03.BasicXMLPartTwo -->
+      <class name="com.class03.BasicXMLPartOne">
+        <test-method status="PASS" signature="tesOneFromBasic1()[pri:0, instance:com.class03.BasicXMLPartOne@7f9a81e8]" name="tesOneFromBasic1" duration-ms="8" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesOneFromBasic1 -->
+        <test-method status="PASS" signature="testSceondFromBasic1()[pri:0, instance:com.class03.BasicXMLPartOne@7f9a81e8]" name="testSceondFromBasic1" duration-ms="2" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSceondFromBasic1 -->
+        <test-method status="PASS" signature="testThirdFromBasic1()[pri:0, instance:com.class03.BasicXMLPartOne@7f9a81e8]" name="testThirdFromBasic1" duration-ms="1" started-at="2019-06-17T14:29:52Z" finished-at="2019-06-17T14:29:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThirdFromBasic1 -->
+      </class> <!-- com.class03.BasicXMLPartOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
